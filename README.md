@@ -1,4 +1,4 @@
-> 从 0 到 1， 带你学习 AI 视觉。
+> 从零开始学习 AI 大模型。
 > 
 > 原创 AI 学习系列教程，点击这里：[https://www.yuque.com/yuqueyonghupftxbc/ai100/wvyi8axax45piuxq](https://www.yuque.com/yuqueyonghupftxbc/ai100/wvyi8axax45piuxq)
 > 
