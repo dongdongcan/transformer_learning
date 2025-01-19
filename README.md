@@ -1,10 +1,13 @@
 > 从 0 到 1， 带你学习 AI 视觉。
+> 
 > 原创 AI 学习系列教程，点击这里：[https://www.yuque.com/yuqueyonghupftxbc/ai100/klydnq5blhqq8x1s](https://www.yuque.com/yuqueyonghupftxbc/ai100/klydnq5blhqq8x1s)
+> 
 > 加入知识星球，一起学习 AI ： [2025我们星球见](https://mp.weixin.qq.com/s/e2IRTS7QWW5qEOLKjBBPbQ?token=1017142557&lang=zh_CN)
 
 # 仓库介绍
 
 本仓库为 《Transformer通关秘籍》专栏的配套代码仓库。
+
 《Transformer通关秘籍》专栏有几十篇高质量文章，已经完成更新，专栏系统性的讲解了学习大模型（Transformer架构）需要的背景知识和原理。
 
  [加入星球](https://mp.weixin.qq.com/s/e2IRTS7QWW5qEOLKjBBPbQ?token=1017142557&lang=zh_CN)，你可以免费阅读到这些文章。
@@ -42,25 +45,18 @@
 这里整理了国内外知名 AI 公司发布的 AI 大模型的使用链接，以及相关模型的介绍，都汇总在上面的链接中。目前包括：百度文心一言、腾讯混元、阿里通义千问、讯飞星火、清华智谱清言（chatGLM）、月之暗面 Kimi、OpenAI GPT系列、POE、Llama系列、快手可灵等。
 
 - AI 大模型初体验：使用 Python 调用 ChatGLM
-
 - AI 大模型初体验：在笔记本上，利用 CPU 上部署 LLaMa2
-
 - AI 大模型初体验：使用 Python 调用 LLaMa3
-
 - 有趣的 AI 应用：利用 AI 生成视频（网页版）
-
 - 有趣的 AI 应用：利用 AI 生成各种风格的漫画
-
 - 实用的 AI 应用：手把手带你使用 AI 完成网页内容的总结
-
 - 实用的 AI 应用：文生视频国产 Sora 平替
-
 - 实用的 AI 应用：体验 MidJourney 绘画
 
 ## 环境配置相关
-选配：安装 Ubuntu 系统 (非必须)
-快速访问 Hugging Face (必看)
-环境配置与代码仓库 (必看)
+- 选配：安装 Ubuntu 系统 (非必须)
+- 快速访问 Hugging Face (必看)
+- 环境配置与代码仓库 (必看)
 
 ## 预处理阶段（基础）
 该阶段完成输入句子（单词）到向量空间的表达，可以认为是大模型进行推理之前的，文本预处理阶段。
