@@ -1,6 +1,8 @@
 > 从零开始学习 AI 大模型。
 > 
 > 原创 AI 学习系列教程：[点击这里](https://www.yuque.com/yuqueyonghupftxbc/ai100/wvyi8axax45piuxq)
+>
+> 本专栏配有基于 python 的实战项目，为从零手写大模型，项目链接：[从零手写大模型](https://www.yuque.com/yuqueyonghupftxbc/ai100/lc1bna1l1dl2zp39)
 > 
 > 加入知识星球，一起学习 AI ： [2025我们星球见](https://www.yuque.com/yuqueyonghupftxbc/ai100/aiy5vb3bu2id5agp)
 
