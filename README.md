@@ -1,8 +1,8 @@
 > 从零开始学习 AI 大模型。
 > 
-> 原创 AI 学习系列教程，点击这里：[https://www.yuque.com/yuqueyonghupftxbc/ai100/wvyi8axax45piuxq](https://www.yuque.com/yuqueyonghupftxbc/ai100/wvyi8axax45piuxq)
+> 原创 AI 学习系列教程：[点击这里](https://www.yuque.com/yuqueyonghupftxbc/ai100/wvyi8axax45piuxq)
 > 
-> 加入知识星球，一起学习 AI ： [2025我们星球见](https://mp.weixin.qq.com/s/_c7KlPvGUV3pMgFg2uRD6Q)
+> 加入知识星球，一起学习 AI ： [2025我们星球见]([https://mp.weixin.qq.com/s/_c7KlPvGUV3pMgFg2uRD6Q](https://www.yuque.com/yuqueyonghupftxbc/ai100/aiy5vb3bu2id5agp))
 
 # 仓库介绍
 
@@ -10,7 +10,7 @@
 
 《Transformer通关秘籍》专栏有几十篇高质量文章，已经完成更新，专栏系统性的讲解了学习大模型（Transformer架构）需要的背景知识和原理。
 
- [加入星球](https://mp.weixin.qq.com/s/_c7KlPvGUV3pMgFg2uRD6Q)，你可以免费阅读到这些文章。
+ [加入星球](https://www.yuque.com/yuqueyonghupftxbc/ai100/aiy5vb3bu2id5agp)，你可以免费阅读到这些文章。
 
 
 # 专栏简介
@@ -123,7 +123,7 @@
 - 模型：Qwen2 的模型结构和细节
 
 # 完整的学习路线和教程
-加入知识星球，即可免费阅读到本项目的所有文章 ： [2025我们星球见](https://mp.weixin.qq.com/s/e2IRTS7QWW5qEOLKjBBPbQ?token=1017142557&lang=zh_CN)
+加入知识星球，即可免费阅读到本项目的所有文章 ： [2025我们星球见](https://www.yuque.com/yuqueyonghupftxbc/ai100/aiy5vb3bu2id5agp)
 
 # 其他
 本项目所有代码和相关文章，均为个人原创，未经同意，请勿随意转载至任何平台，更不可用于商业目的，我已委托相关维权人士对原创文章和代码进行监督。
