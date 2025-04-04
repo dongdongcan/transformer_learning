@@ -2,7 +2,7 @@
 > 
 > 原创 AI 学习系列教程：[点击这里](https://www.yuque.com/yuqueyonghupftxbc/ai100/wvyi8axax45piuxq)
 > 
-> 加入知识星球，一起学习 AI ： [2025我们星球见]([https://mp.weixin.qq.com/s/_c7KlPvGUV3pMgFg2uRD6Q](https://www.yuque.com/yuqueyonghupftxbc/ai100/aiy5vb3bu2id5agp))
+> 加入知识星球，一起学习 AI ： [2025我们星球见](https://www.yuque.com/yuqueyonghupftxbc/ai100/aiy5vb3bu2id5agp)
 
 # 仓库介绍
 
