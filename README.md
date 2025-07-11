@@ -1,18 +1,21 @@
-> 从零开始学习 AI 大模型。
-> 
-> 原创 AI 学习系列教程：[点击这里](https://www.yuque.com/yuqueyonghupftxbc/ai100/wvyi8axax45piuxq)
->
-> 本专栏配有基于 python 的实战项目，为从零手写大模型，项目链接：[从零手写大模型](https://www.yuque.com/yuqueyonghupftxbc/ai100/lc1bna1l1dl2zp39)
-> 
-> 加入知识星球，一起学习 AI ： [2025我们星球见](https://www.yuque.com/yuqueyonghupftxbc/ai100/aiy5vb3bu2id5agp)
-
 # 仓库介绍
 
-本仓库为 《Transformer通关秘籍》专栏的配套代码仓库。
+本仓库为 《Transformer通关秘籍》专栏的配套代码仓库，[专栏点击这里](https://www.yuque.com/yuqueyonghupftxbc/ai100/wvyi8axax45piuxq)。
 
 《Transformer通关秘籍》专栏有几十篇高质量文章，已经完成更新，专栏系统性的讲解了学习大模型（Transformer架构）需要的背景知识和原理。
 
- [加入星球](https://www.yuque.com/yuqueyonghupftxbc/ai100/aiy5vb3bu2id5agp)，你可以免费阅读到这些文章。
+[加入星球](https://www.yuque.com/yuqueyonghupftxbc/ai100/aiy5vb3bu2id5agp)，你也可以免费阅读到这些专栏文章。
+
+# 更多学习教程
+> 
+> 《AI视觉入门与调优》专栏：[点击这里](https://www.yuque.com/yuqueyonghupftxbc/ai100/klydnq5blhqq8x1s)
+> 
+>
+> 《从零手写大模型实战》专栏：[点击这里](https://www.yuque.com/yuqueyonghupftxbc/ai100/lc1bna1l1dl2zp39)
+>
+> 原创 AI 学习系列教程，点击这里：[AI小白到AI大神的天梯之路](https://www.yuque.com/yuqueyonghupftxbc/ai100/snfie4aka5fn5ykg)
+>
+> 加入《小而精的 AI 学习圈》知识星球，一起学习 AI ： [我们星球见](https://www.yuque.com/yuqueyonghupftxbc/ai100/aiy5vb3bu2id5agp)
 
 
 # 专栏简介
